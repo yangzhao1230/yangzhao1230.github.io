@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zhao Yang"
-  avatar           : "RUC.png"
+  avatar           : "./images/ruc.PNG"
   bio              : "Just Chill"
-  location         : "Chengdu"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yangzhao1230"
+  github           : "yangzhao1230"
   google_plus      :
   keybase          :
   instagram        :
