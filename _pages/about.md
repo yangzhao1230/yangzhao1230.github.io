@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a first year PhD student at Renmin University.
+Hi, I'm Zhao Yang, a first year PhD student at Renmin University.
 
 News 
 ======
