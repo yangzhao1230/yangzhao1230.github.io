@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhao Yang, a first year PhD student at Renmin University of China. My research interests are focused on Deep Generative Models, Representation Learning and their application in AI4Science.
+Hi, I'm Zhao Yang, a ~~first~~-2nd year PhD student at Renmin University of China. My research interests are focused on Deep Generative Models, Representation Learning, and their application in AI4Science.
 
 News 
 ======
