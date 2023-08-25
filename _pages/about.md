@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhao Yang, a ~~first~~2nd year PhD student at Renmin University of China. My research interests are focused on Deep Generative Models, Representation Learning, and their application in AI4Science.
+Hi, I'm Zhao Yang, a ~~first~~2nd year PhD student at Renmin University of China. I got my bachelor degree in Sichuan University. My research interests are focused on Deep Generative Models, Representation Learning, and their application in AI4Science.
 
-News 
-======
+<!-- News  -->
+<!-- ======
 - [July, 2023] One paper was accepted by ACM MM 2023.
-- [June, 2022] I have graduated from Sichuan University.
+- [June, 2022] I have graduated from Sichuan University. -->
 
 Publications 
 ======
