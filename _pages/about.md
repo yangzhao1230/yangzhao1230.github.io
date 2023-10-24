@@ -19,3 +19,7 @@ Publications
 ======
 - **Zhao Yang**, Bing Su, Ji-Rong Wen. Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling, The 31th ACM International Conference on Multimedia (ACM MM), 2023, [paper](https://arxiv.org/abs/2308.01850)
 - Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen. A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, arXiv [paper](https://arxiv.org/abs/2209.05481)
+
+Experience
+======
+- **Microsoft Research AI4Science**: Research Intern, 2023.11 - Now
