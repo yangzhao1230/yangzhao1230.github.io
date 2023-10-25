@@ -23,3 +23,12 @@ Publications
 Experience
 ======
 - **Microsoft Research AI4Science**: Research Intern, 2023.11 - Now
+
+Teaching
+======
+- Artificial Intelligence and Python Programming, Teaching Assistant, 2023
+- Comprehensive Artificial Intelligence Design, Teaching Assistant, 2023
+
+Service
+======
+- Machine Vision and Applications, Reviewer, 2023
