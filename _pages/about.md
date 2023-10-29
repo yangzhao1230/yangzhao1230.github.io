@@ -29,6 +29,6 @@ Teaching
 - Artificial Intelligence and Python Programming, Teaching Assistant, 2023
 - Comprehensive Artificial Intelligence Design, Teaching Assistant, 2023
 
-<!-- Service
+Service
 ======
-- Machine Vision and Applications, Reviewer, 2023 -->
+- CVPR 2024, Reviewer
