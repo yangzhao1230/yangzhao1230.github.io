@@ -22,7 +22,7 @@ Publications
 
 Experience
 ======
-- **Microsoft Research AI4Science**: Research Intern, 2023.11 - Now
+- **Microsoft Research AI4Science**, Research Intern, 2023.11 - Now
 
 Teaching
 ======
