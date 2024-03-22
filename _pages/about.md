@@ -17,18 +17,21 @@ Hi, I'm Zhao Yang, a ~~first~~ 2nd year PhD student at Renmin University of Chin
 
 Publications 
 ======
-- **Zhao Yang**, Bing Su, Ji-Rong Wen. Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling, The 31th ACM International Conference on Multimedia (ACM MM), 2023, [paper](https://arxiv.org/abs/2308.01850)
+- **Zhao Yang**, Bing Su, Ji-Rong Wen. Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling, The 31th ACM International Conference on Multimedia (ACM MM), 2023, [paper](https://dl.acm.org/doi/10.1145/3581783.3611887)
 - Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen. A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language, arXiv [paper](https://arxiv.org/abs/2209.05481)
 
 Experience
 ======
-- **Microsoft Research AI4Science**, Research Intern, 2023.11 - Now
+- Microsoft Research AI4Science China, Research Intern, 2023.11 - Now
+
+Awards & Service
+======
+- Reviewer: CVPR 2024
+- Outstanding Undergraduate Thesis of Sichuan University, 2022
+- First Prize of NOIP 2016 (National Olympiad in Informatics in Provinces), CCF
 
 Teaching
 ======
-- Artificial Intelligence and Python Programming, Teaching Assistant, 2023
-- Comprehensive Artificial Intelligence Design, Teaching Assistant, 2023
+- Artificial Intelligence and Python Programming, TA, RUC, 2023
+- Comprehensive Artificial Intelligence Design, TA, RUC, 2023
 
-Service
-======
-- CVPR 2024, Reviewer
