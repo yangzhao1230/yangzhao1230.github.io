@@ -28,7 +28,7 @@ Awards & Service
 ======
 - Reviewer: CVPR 2024
 - Outstanding Undergraduate Thesis of Sichuan University, 2022
-- First Prize of NOIP 2016 (National Olympiad in Informatics in Provinces), CCF
+- First Prize of NOIP (National Olympiad in Informatics in Provinces), 2016
 
 Teaching
 ======
