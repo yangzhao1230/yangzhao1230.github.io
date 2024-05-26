@@ -22,11 +22,11 @@ Publications
 
 Experience
 ======
-- Microsoft Research AI4Science China, Research Intern, 2023.11 - Now
+- Microsoft Research AI4Science China, Research Intern, 2023.11 - Present
 
 Awards & Service
 ======
-- Reviewer: CVPR 2024
+- Reviewer: CVPR 2024, NeurIPS 2024
 - Outstanding Undergraduate Thesis of Sichuan University, 2022
 - First Prize of NOIP (National Olympiad in Informatics in Provinces), 2016
 
