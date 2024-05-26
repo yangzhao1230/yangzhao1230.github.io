@@ -30,7 +30,7 @@ Teaching
 - Artificial Intelligence and Python Programming, TA, RUC, 2023
 - Comprehensive Artificial Intelligence Design, TA, RUC, 2023
  -->
-## About Me
+<!-- ## About Me -->
 Hi, I'm Zhao Yang, a second-year PhD student at Renmin University of China. I received my Bachelor's degree from Sichuan University. My research interests focus on Deep Generative Models, Representation Learning, and their applications in AI4Science.
 
 ## Publications
