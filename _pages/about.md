@@ -31,7 +31,7 @@ Teaching
 - Comprehensive Artificial Intelligence Design, TA, RUC, 2023
  -->
 <!-- ## About Me -->
-Hi, I'm Zhao Yang, a second-year PhD student at Renmin University of China. I received my Bachelor's degree from Sichuan University. My research interests focus on Deep Generative Models, Representation Learning, and their applications in AI4Science.
+Hi, I'm Zhao Yang, a second-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I received my Bachelor's degree from Sichuan University. My research interests focus on Large Language Models and Deep Generative Models, particularly their applications in sequence-based scientific data. Additionally, I work closely with [Dr. Chuan Cao](https://www.microsoft.com/en-us/research/people/chuancao/) and [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/).
 
 ## Publications
 - **Zhao Yang**, Bing Su, Ji-Rong Wen. "Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling," The 31st ACM International Conference on Multimedia (ACM MM), 2023. [paper](https://dl.acm.org/doi/10.1145/3581783.3611887)
