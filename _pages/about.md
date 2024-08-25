@@ -41,7 +41,7 @@ Hi, I'm Zhao Yang, a second-year PhD student at Renmin University of China, supe
 - **Microsoft Research AI4Science China, Research Intern** (2023.11 - Present)
 
 ## Awards & Service
-- **Reviewer**: CVPR 2024, NeurIPS 2024, ICLR 2024
+- **Reviewer**: CVPR 2024, NeurIPS 2024, ICLR 2025
 - **First Prize**: NOIP (National Olympiad in Informatics in Provinces), 2016
 
 ## Teaching
