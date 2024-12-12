@@ -31,17 +31,22 @@ Teaching
 - Comprehensive Artificial Intelligence Design, TA, RUC, 2023
  -->
 <!-- ## About Me -->
-Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I received my Bachelor's degree from Sichuan University. My research interests focus on Large Language Models and Deep Generative Models, particularly their applications in sequence-based scientific data. Additionally, I work closely with [Dr. Chuan Cao](https://www.microsoft.com/en-us/research/people/chuancao/) and [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/).
+Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I received my Bachelor's degree from Sichuan University. My research interests focus on Language Models and Deep Generative Models, with a particular emphasis on their applications in AI for biology (AI4Bio) and sequence-based scientific data.
+
+My recent research reserach intrest:
+- Developing more powerful sequence-based scientific foundation models.
+- Integrating foundation models with supplementary biological data and prior knowledge to address critical community-focused tasks, such as variant effect prediction (for both coding and non-coding regions).
+<!-- I work closely with [Dr. Chuan Cao](https://www.microsoft.com/en-us/research/people/chuancao/) and [Dr. Yingce Xia](https://www.microsoft.com/en-us/research/people/yinxia/). -->
 
 ## Publications
 - **Zhao Yang**, Bing Su, Ji-Rong Wen. "Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling," The 31st ACM International Conference on Multimedia (ACM MM), 2023. [paper](https://dl.acm.org/doi/10.1145/3581783.3611887)
 - Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen. "A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language," arXiv, 2023. [paper](https://arxiv.org/abs/2209.05481)
 
 ## Experience
-- **Microsoft Research AI4Science China, Research Intern** (2023.11 - Present)
+- Microsoft Research AI4Science China, Research Intern (2023.11 - Present)
 
 ## Awards & Service
-- **Reviewer**: CVPR 2024, NeurIPS 2024, ICLR 2025
+- **Reviewer**: CVPR 2024, NeurIPS 2024, ICLR 2025, ICML 2025
 - **First Prize**: NOIP (National Olympiad in Informatics in Provinces), 2016
 
 <!-- ## Teaching
