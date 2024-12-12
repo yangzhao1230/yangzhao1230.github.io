@@ -12,7 +12,7 @@ Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, super
 
 Recent Research Interests
 - Developing sequence-based scientific foundation models to advance biological and scientific understanding.
-- Integrating foundation models** with biological data and prior knowledge to solve critical community-focused tasks, such as variant effect prediction (VEP).
+- Integrating foundation models with biological data and prior knowledge to solve critical community-focused tasks, such as variant effect prediction (VEP).
 
 ---
 
