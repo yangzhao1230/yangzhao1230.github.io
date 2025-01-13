@@ -17,8 +17,21 @@ Recent Research Interests
 ---
 
 ## Publications
-- **Zhao Yang**, Bing Su, Ji-Rong Wen. "[Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling](https://dl.acm.org/doi/10.1145/3581783.3611887)," *The 31st ACM International Conference on Multimedia (ACM MM)*, 2023.
-- Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen. "[A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language](https://arxiv.org/abs/2209.05481)," *arXiv*, 2023.
+
+- **Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen.  
+  **Interpretable Enzyme Function Prediction via Residue-Level Detection**.
+  *Preprint*
+  📄 [Paper](https://arxiv.org/abs/2501.05644) | 💻 [Code](https://github.com/yangzhao1230/ProtDETR)  
+
+- **Zhao Yang**, Bing Su, Ji-Rong Wen.  
+  **Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**.  
+  *The 31st ACM International Conference on Multimedia (ACM MM)*, 2023.  
+  📄 [Paper](https://dl.acm.org/doi/10.1145/3581783.3611887) | 💻 [Code](https://github.com/yangzhao1230/PCMDM)
+
+- Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen.  
+  **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**.
+  *Preprint*
+  📄 [Paper](https://arxiv.org/abs/2209.05481) | 💻 [Code](https://github.com/ddz16/MoMu)  
 
 ---
 
@@ -29,6 +42,7 @@ Recent Research Interests
 
 ---
 
-## Awards & Service
-- **Reviewer**: CVPR 2024, NeurIPS 2024, ICLR 2025, ICML 2025
+## Service & Awards
+- **Reviewer**: CVPR 2024, NeurIPS 2024, AISTATS 2025, ICLR 2025, ICML 2025  
 - **First Prize**: National Olympiad in Informatics in Provinces (NOIP), 2016
+
