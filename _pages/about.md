@@ -19,18 +19,18 @@ Recent Research Interests
 ## Publications
 
 - **Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen.  
-  **Interpretable Enzyme Function Prediction via Residue-Level Detection**.
-  *Preprint*
+  **Interpretable Enzyme Function Prediction via Residue-Level Detection**. *Preprint.*
+  
   📄 [Paper](https://arxiv.org/abs/2501.05644) | 💻 [Code](https://github.com/yangzhao1230/ProtDETR)  
 
 - **Zhao Yang**, Bing Su, Ji-Rong Wen.  
-  **Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**.  
-  *The 31st ACM International Conference on Multimedia (ACM MM)*, 2023.  
+  **Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**. *The 31st ACM International Conference on Multimedia (ACM MM)*, 2023.
+  
   📄 [Paper](https://dl.acm.org/doi/10.1145/3581783.3611887) | 💻 [Code](https://github.com/yangzhao1230/PCMDM)
 
 - Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen.  
-  **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**.
-  *Preprint*
+  **A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**. *Preprint.*
+  
   📄 [Paper](https://arxiv.org/abs/2209.05481) | 💻 [Code](https://github.com/ddz16/MoMu)  
 
 ---
