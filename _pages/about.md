@@ -26,7 +26,7 @@ Recent Research Interests
 ---
 
 ### Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling  
-**Zhao Yang**, Bing Su, Ji-Rong Wen. *The 31st ACM International Conference on Multimedia (ACM MM)*, 2023.  
+**Zhao Yang**, Bing Su, Ji-Rong Wen. *ACM MM 2023.  
 📄 [Paper](https://dl.acm.org/doi/10.1145/3581783.3611887) | 💻 [Code](https://github.com/yangzhao1230/PCMDM)  
 **TL;DR**: This paper proposes a text-driven diffusion-based framework for synthesizing long-term human motions, achieving coherent and realistic sequences with novel sampling strategies.
 
