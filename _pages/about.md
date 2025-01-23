@@ -51,7 +51,7 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
 ## Experience
 
 - **Research Intern**, Microsoft Research AI4Science China  
-  *Nov 2023 – Present*  
+  *Nov 2023 – Nov 2024*  
   Mentor: [Dr. Chuan Cao](https://www.microsoft.com/en-us/research/people/chuancao/)
 
 ---
