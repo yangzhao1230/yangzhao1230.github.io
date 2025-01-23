@@ -18,8 +18,12 @@ Recent Research Interests:
 
 ## Publications
 
+### Regulatory DNA Sequence Design with Reinforcement Learning
+***Zhao Yang***, Bing Su, Chuan Cao, Ji-Rong Wen. *ICLR 2025 (To be appeared). *
+
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
 **Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint.*  
+
 📄 [Paper](https://arxiv.org/abs/2501.05644) | 💻 [Code](https://github.com/yangzhao1230/ProtDETR)  
 **TL;DR**: This work introduces ProtDETR, a novel framework that reframes enzyme function prediction as an object detection problem by identifying active sites as "objects" to interpret enzyme functionality.
 
@@ -27,6 +31,7 @@ Recent Research Interests:
 
 ### Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling  
 **Zhao Yang**, Bing Su, Ji-Rong Wen. *ACM MM 2023.* 
+
 📄 [Paper](https://dl.acm.org/doi/10.1145/3581783.3611887) | 💻 [Code](https://github.com/yangzhao1230/PCMDM)  
 **TL;DR**: This paper proposes a text-driven diffusion-based framework for synthesizing long-term human motions, achieving coherent and realistic sequences with novel sampling strategies.
 
@@ -34,6 +39,7 @@ Recent Research Interests:
 
 ### A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language  
 Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, Zhiwu Lu, Ji-Rong Wen. *Preprint.*  
+
 📄 [Paper](https://arxiv.org/abs/2209.05481) | 💻 [Code](https://github.com/ddz16/MoMu)  
 **TL;DR**: This work presents MoMu, a foundation model associating molecular graphs with natural language, enabling multimodal understanding and applications in molecular science. 
 
