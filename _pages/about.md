@@ -20,9 +20,10 @@ Recent Research Interests:
 
 ### Regulatory DNA Sequence Design with Reinforcement Learning  
 **Zhao Yang**, Bing Su, Chuan Cao, Ji-Rong Wen. *ICLR 2025.*  
-**TL;DR**: We propose a reinforcement learning framework for designing regulatory DNA sequences using transcription factor binding site rewards.
 📄 [Paper](https://openreview.net/pdf?id=F4IMiNhim1)  
 💻 [Code](https://github.com/yangzhao1230/TACO)  
+**TL;DR**: We propose a reinforcement learning framework for designing regulatory DNA sequences using transcription factor binding site rewards.
+
 ---
 
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
