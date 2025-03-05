@@ -18,6 +18,8 @@ Recent Research Interests:
 
 ## Publications
 
+<small>* indicates equal contribution</small>
+
 ### Regulatory DNA Sequence Design with Reinforcement Learning  
 **Zhao Yang**, Bing Su, Chuan Cao, Ji-Rong Wen. *ICLR 2025.*  
 📄 [Paper](https://openreview.net/pdf?id=F4IMiNhim1)  
@@ -25,6 +27,10 @@ Recent Research Interests:
 **TL;DR**: We propose a reinforcement learning framework for designing regulatory DNA sequences using transcription factor binding site rewards.
 
 ---
+
+### SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model
+Jiwei Zhu*, **Zhao Yang***, Bing Su, Bing Su *CLR 2025 AI4NA Wordshop. *To be appereared.*  
+**TL;DR**:  We leverage MoE to better model cross-species and cross-genomic profile information in genomic data.
 
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
 **Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint.*  
