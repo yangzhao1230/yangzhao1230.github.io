@@ -16,7 +16,7 @@ Recent Research Interests:
 
 ---
 
-## Publications
+## Projects
 
 <small>* indicates equal contribution</small>
 
