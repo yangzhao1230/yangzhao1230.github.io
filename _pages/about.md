@@ -61,6 +61,9 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
 - **Research Intern**, Alibaba Cloud Apsara Lab
   *Jan 2025 - Mar 2025*
   Mentor: Dr. Qiuyi Li
+
+---
+
 - **Research Intern**, Microsoft Research AI4Science China  
   *Nov 2023 – Nov 2024*  
   Mentor: Dr. Chuan Cao
