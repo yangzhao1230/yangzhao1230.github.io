@@ -24,7 +24,7 @@ Recent Research Interests:
 **Zhao Yang**, Bing Su, Chuan Cao, Ji-Rong Wen. *ICLR 2025.*  
 📄 [Paper](https://openreview.net/pdf?id=F4IMiNhim1)  
 💻 [Code](https://github.com/yangzhao1230/TACO)  
-**TL;DR**: We propose a reinforcement learning framework for designing regulatory DNA sequences using transcription factor binding site rewards.
+**TL;DR**: We propose a reinforcement learning framework for designing regulatory DNA sequences using transcription factor binding site rewards. 
 
 ---
 
@@ -33,7 +33,7 @@ Jiwei Zhu\* , **Zhao Yang**\*, Bing Su. *ICLR 2025 AI4NA Workshop & MLGenX Works
 **TL;DR**:  We leverage MoE to better model cross-species and cross-genomic profile information in genomic data.
 
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
-**Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint, ICLR 2025 LMRL Workshop*  
+**Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint, ICLR 2025 LMRL Workshop.*  
 📄 [Paper](https://arxiv.org/abs/2501.05644)  
 💻 [Code](https://github.com/yangzhao1230/ProtDETR)  
 **TL;DR**: We propose ProtDETR, a novel framework that reframes enzyme function prediction as an object detection problem by identifying active sites as "objects" to interpret enzyme functionality.
@@ -58,14 +58,17 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
 
 ## Experience
 
+- **Research Intern**, Alibaba Cloud Apsara Lab
+  *Jan 2025 - Mar 2025*
+  Mentor: Dr. Qiuyi Li
 - **Research Intern**, Microsoft Research AI4Science China  
   *Nov 2023 – Nov 2024*  
-  Mentor: [Dr. Chuan Cao](https://www.microsoft.com/en-us/research/people/chuancao/)
+  Mentor: Dr. Chuan Cao
 
 ---
 
 
 ## Service & Awards
-- **Reviewer**: CVPR 2024, NeurIPS 2024, AISTATS 2025, ICLR 2025, ICML 2025  
+- **Reviewer**: CVPR 2024, NeurIPS 2024, AISTATS 2025, ICLR 2025, ICML 2025, NeurIPS 2025
 - **First Prize**: National Olympiad in Informatics in Provinces (NOIP), 2016
 
