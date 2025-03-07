@@ -29,11 +29,11 @@ Recent Research Interests:
 ---
 
 ### SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model
-Jiwei Zhu\* , **Zhao Yang**\*, Bing Su. *ICLR 2025 AI4NA Workshop.*  
+Jiwei Zhu\* , **Zhao Yang**\*, Bing Su. *ICLR 2025 AI4NA Workshop & MLGenX Workshop.*  
 **TL;DR**:  We leverage MoE to better model cross-species and cross-genomic profile information in genomic data.
 
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
-**Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint.*  
+**Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint, ICLR 2025 LMRL Workshop*  
 📄 [Paper](https://arxiv.org/abs/2501.05644)  
 💻 [Code](https://github.com/yangzhao1230/ProtDETR)  
 **TL;DR**: We propose ProtDETR, a novel framework that reframes enzyme function prediction as an object detection problem by identifying active sites as "objects" to interpret enzyme functionality.
