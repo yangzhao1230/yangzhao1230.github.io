@@ -62,9 +62,9 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
   *Nov 2023 – Nov 2024*  
   Mentor: Dr. Chuan Cao  
 
-## Service & Awards
+## Service
 - **Reviewer**: CVPR 2024, NeurIPS 2024, AISTATS 2025, ICLR 2025, ICML 2025, NeurIPS 2025
-- **First Prize**: National Olympiad in Informatics in Provinces (NOIP), 2016
+<!-- - **First Prize**: National Olympiad in Informatics in Provinces (NOIP), 2016 -->
 
-## Visitors Count
+---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iXCk0-afshI_zxnmn25GfT0jTeykvFkE8FSVJy0rRkE&cl=ffffff&w=a"></script>
