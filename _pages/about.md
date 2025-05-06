@@ -29,8 +29,9 @@ Recent Research Interests:
 ---
 
 ### SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model
-Jiwei Zhu\* , **Zhao Yang**\*, Bing Su. *ICLR 2025 AI4NA Workshop & MLGenX Workshop.*  
-**TL;DR**:  We leverage MoE to better model cross-species and cross-genomic profile information in genomic data.
+**Zhao Yang**\*, Jiwei Zhu\*, Bing Su. *ICML 2025*, *ICLR 2025 AI4NA Workshop & MLGenX Workshop.*  
+**TL;DR**:  We leverage MoE to better model cross-species and cross-genomic profile information in genomic data and hence make sequence-to-function genomic models to be powerful DNA foundation models. 
+---
 
 ### Interpretable Enzyme Function Prediction via Residue-Level Detection  
 **Zhao Yang**, Bing Su, Jiahao Chen, Ji-Rong Wen. *Preprint, ICLR 2025 LMRL Workshop.*  
