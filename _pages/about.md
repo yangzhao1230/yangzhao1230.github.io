@@ -10,9 +10,11 @@ redirect_from:
 
 Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I received my Bachelor's degree from Sichuan University. My research interests focus on Language Models and Deep Generative Models, with a particular emphasis on their applications in AI for Biology (AI4Bio) and sequence-based scientific data.
 
+<!-- 
 Recent Research Interests:
 - Developing sequence-based scientific foundation models to advance biological and scientific understanding.
 - Integrating foundation models with biological data and prior knowledge to solve critical community-focused tasks, such as variant effect prediction (VEP).
+-->
 
 ---
 
