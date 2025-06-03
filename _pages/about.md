@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I also work closely with Dr. [Chuan Cao] (http://www.bjzgca.edu.cn/PicDetail.aspx?ID=317). I received my Bachelor's degree from Sichuan University. My research interests focus on Language Models and Deep Generative Models, with a particular emphasis on their applications in AI for Biology (AI4Bio) and sequence-based scientific data.
+Hi, I'm Zhao Yang, a third-year PhD student at Renmin University of China, supervised by [Prof. Bing Su](https://gsai.ruc.edu.cn/bingsu). I also work closely with [Dr. Chuan Cao](http://www.bjzgca.edu.cn/PicDetail.aspx?ID=317). I received my Bachelor's degree from Sichuan University. My research interests focus on Language Models and Deep Generative Models, with a particular emphasis on their applications in AI for Biology (AI4Bio) and sequence-based scientific data.
 
 <!-- 
 Recent Research Interests:
