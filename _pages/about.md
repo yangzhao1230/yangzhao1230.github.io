@@ -62,14 +62,14 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
 
 ---
 
-## Experience
+## Experiences
 
 - Research Intern, Microsoft Research AI4Science China  
   *Nov 2023 – Nov 2024*  
   Mentor: Dr. Chuan Cao  
 
-## Service and rewards
+## Services
 - Reviewer: CVPR 2024, NeurIPS 2024, AISTATS 2025, ICLR 2025, ICML 2025, NeurIPS 2025
-- First Prize, National Olympiad in Informatics in Provinces (NOIP), 2016
+<!-- - First Prize, National Olympiad in Informatics in Provinces (NOIP), 2016 -->
 
 ---
