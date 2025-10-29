@@ -77,6 +77,7 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
   - ICML 2025
 <!-- - First Prize, National Olympiad in Informatics in Provinces (NOIP), 2016 -->
 
+<!--
 ## Awards
 - ICLR AI4NA Workshop Travel Grant, 2025
-- First Prize of National Olympiad in Informatics in Provinces (NOIP), 2016
+- First Prize of National Olympiad in Informatics in Provinces (NOIP), 2016 -->
