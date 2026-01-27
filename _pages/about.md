@@ -68,7 +68,9 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
 ---
 
 ## Experiences
-
+- Research Intern, Alibaba Cloud
+  *Jan 2025 – Mar 2025*
+  Mentor: Dr. Qiuyi Li  
 - Research Intern, Microsoft Research AI4Science China  
   *Nov 2023 – Nov 2024*  
   Mentor: Dr. Chuan Cao  
@@ -79,7 +81,7 @@ Bing Su, Dazhao Du, **Zhao Yang**, Yujie Zhou, Jiangmeng Li, Anyi Rao, Hao Sun, 
   - AISTATS 2025
   - NeurIPS 2024 - 2025
   - ICLR 2025 - 2026
-  - ICML 2025
+  - ICML 2025 - 2026
 <!-- - First Prize, National Olympiad in Informatics in Provinces (NOIP), 2016 -->
 
 <!--
