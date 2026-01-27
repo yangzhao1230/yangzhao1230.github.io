@@ -22,6 +22,10 @@ Recent Research Interests:
 
 <small>* indicates equal contribution</small>
 
+### Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction
+**Zhao Yang**\*, Yi Duan\*, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su. *ICLR 2026*, *To be appeared.*  
+---
+
 ### SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model
 **Zhao Yang**\*, Jiwei Zhu\*, Bing Su. *ICML 2025*, *ICLR 2025 AI4NA Workshop & MLGenX Workshop.*  
 📄 [Paper](https://arxiv.org/abs/2506.01833)  
