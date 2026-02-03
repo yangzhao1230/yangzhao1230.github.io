@@ -22,6 +22,14 @@ Recent Research Interests:
 
 <small>* indicates equal contribution</small>
 
+### Diffusion LMs Can Approximate Optimal Infilling Lengths Implicitly
+Hengchang Liu\*, **Zhao Yang**\*, Bing Su. *Preprint.*
+
+📄 [Paper](https://arxiv.org/pdf/2602.00476)  
+💻 [Code](https://github.com/NiuHechang/Calibrated_Adaptive_Length)  
+
+---
+
 ### Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction
 **Zhao Yang**\*, Yi Duan\*, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su. *ICLR 2026*, *To be appeared.*  
 
