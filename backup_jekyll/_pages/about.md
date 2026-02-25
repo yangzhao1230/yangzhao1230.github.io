@@ -31,7 +31,7 @@ Hengchang Liu\*, **Zhao Yang**\*, Bing Su. *Preprint.*
 ---
 
 ### Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction
-**Zhao Yang**\*, Yi Duan\*, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su. *ICLR 2026 Oral*, *To be appeared.*  
+**Zhao Yang**\*, Yi Duan\*, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su. *ICLR 2026 Oral*. [[Paper]](https://openreview.net/pdf?id=wwPSfcf5Pj) [[Code]](https://github.com/yangzhao1230/Prism)  
 
 ---
 
